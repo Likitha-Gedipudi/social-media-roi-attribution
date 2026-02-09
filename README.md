@@ -5,25 +5,6 @@ A comprehensive data analytics project for fashion brands to optimize their soci
 
 ---
 
-## 📊 Dashboard Preview
-
-### Executive Summary
-![Executive Summary](screenshots/executive_summary.png)
-
-### Influencer Analysis
-![Influencer Analysis](screenshots/influencer_analysis.png)
-
-### Content Performance
-![Content Performance](screenshots/content_performance.png)
-
-### Attribution Analysis
-![Attribution Analysis](screenshots/attribution_analysis.png)
-
-### ROI Calculator
-![ROI Calculator](screenshots/roi_calculator.png)
-
----
-
 ## 🗂️ Project Structure
 
 ```
@@ -52,7 +33,6 @@ A comprehensive data analytics project for fashion brands to optimize their soci
 │   ├── data_dictionary.md            # Field descriptions & data types
 │   └── industry_benchmarks.md        # Source references for distributions
 │
-├── screenshots/                      # Dashboard preview images
 ├── dashboard.py                      # Streamlit interactive dashboard
 ├── generate_all_data.py              # Quick data generation script
 ├── requirements.txt                  # Python dependencies
