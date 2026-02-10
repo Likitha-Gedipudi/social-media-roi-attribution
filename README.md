@@ -1,11 +1,11 @@
 # Social Media ROI Attribution & Influencer Performance Analyzer
 
-## 🎯 Project Overview
+## Project Overview
 A comprehensive data analytics project for fashion brands to optimize their social media marketing budget and measure influencer ROI. Features synthetic data generation, multi-touch attribution modeling, influencer scoring, and an interactive Streamlit dashboard.
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 ├── data/
@@ -41,7 +41,7 @@ A comprehensive data analytics project for fashion brands to optimize their soci
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ```bash
 # 1. Clone the repository
@@ -63,36 +63,36 @@ streamlit run dashboard.py
 
 ---
 
-## 📈 Key Features
+## Key Features
 
 ### Data Generation
-- ✅ **Unbiased synthetic data** based on industry benchmarks (Sprout Social, HubSpot, Later)
-- ✅ **Bias mitigation**: Balanced gender (48/45/5/2%), global geography, realistic platform splits
-- ✅ **Realistic correlations**: Inverse follower-engagement relationship, tier-based pricing
+- **Unbiased synthetic data** based on industry benchmarks (Sprout Social, HubSpot, Later)
+- **Bias mitigation**: Balanced gender (48/45/5/2%), global geography, realistic platform splits
+- **Realistic correlations**: Inverse follower-engagement relationship, tier-based pricing
 
 ### Attribution Modeling
-- 🎯 **6 Attribution Models**: First-touch, Last-touch, Linear, Time-decay, Position-based, Markov Chain
-- 📊 **Customer Journey Analysis**: Touchpoint path reconstruction and channel comparison
+- **6 Attribution Models**: First-touch, Last-touch, Linear, Time-decay, Position-based, Markov Chain
+- **Customer Journey Analysis**: Touchpoint path reconstruction and channel comparison
 
 ### Influencer Scoring
-- 🌟 **Composite Score (0-100)** based on 5 weighted factors:
+- **Composite Score (0-100)** based on 5 weighted factors:
   - Engagement Quality (25%)
   - Audience Authenticity (25%)
   - Conversion Rate (30%)
   - Cost Efficiency/ROI (15%)
   - Brand Alignment (5%)
-- 📈 **Performance Segmentation**: High/Medium/Low performer classification
+- **Performance Segmentation**: High/Medium/Low performer classification
 
 ### Interactive Dashboard
-- 📊 **Executive Summary**: KPIs, platform performance, revenue trends
-- 👤 **Influencer Analysis**: Filterable scatter plots, tier comparison
-- 📱 **Content Performance**: Content type analysis, posting time heatmaps
-- 🎯 **Attribution Analysis**: Touchpoint journey visualization
-- 💰 **ROI Calculator**: Budget optimizer with estimated results
+- **Executive Summary**: KPIs, platform performance, revenue trends
+- **Influencer Analysis**: Filterable scatter plots, tier comparison
+- **Content Performance**: Content type analysis, posting time heatmaps
+- **Attribution Analysis**: Touchpoint journey visualization
+- **ROI Calculator**: Budget optimizer with estimated results
 
 ---
 
-## 📊 Datasets Overview
+## Datasets Overview
 
 | Dataset | Records | Description |
 |---------|---------|-------------|
@@ -104,7 +104,7 @@ streamlit run dashboard.py
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category | Tools |
 |----------|-------|
